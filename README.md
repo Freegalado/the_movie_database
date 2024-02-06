@@ -1,8 +1,6 @@
-# PEC 4: Programación para la ciencia de datos
+# Análisis de datos de peliculas  
 
-La siguiente PEC4 es autoría de Francisco Javier Regalado López.
-
-La PEC4 se compone de los siguientes archivos:
+El repositorio se compone de los siguientes archivos:
 - main.py
 - descompresion.py
 - procesamiento.py
